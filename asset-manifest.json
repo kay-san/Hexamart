@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Hexamart/static/css/main.58e58a8a.css",
+    "main.js": "/Hexamart/static/js/main.6ea6e38b.js",
+    "static/js/787.f34db48a.chunk.js": "/Hexamart/static/js/787.f34db48a.chunk.js",
+    "static/media/order-now.gif": "/Hexamart/static/media/order-now.0e4d0d77826a37e2fc14.gif",
+    "static/media/login-BG.png": "/Hexamart/static/media/login-BG.e16ee81fd3be54f0cce6.png",
+    "static/media/login-BG2.png": "/Hexamart/static/media/login-BG2.b5e270f1a0e1d3dc4802.png",
+    "static/media/delivery.png": "/Hexamart/static/media/delivery.1f4bcc8fd76f28a79332.png",
+    "static/media/world.png": "/Hexamart/static/media/world.829d1336f17a780bf6d2.png",
+    "static/media/loading.gif": "/Hexamart/static/media/loading.8981e9a58e16221f8156.gif",
+    "static/media/google.png": "/Hexamart/static/media/google.1da0744f303eeea12821.png",
+    "static/media/master.png": "/Hexamart/static/media/master.3666d2afd7cf2e283f86.png",
+    "static/media/spin.gif": "/Hexamart/static/media/spin.7adea3e92ead786a729e.gif",
+    "static/media/CREDC___.ttf": "/Hexamart/static/media/CREDC___.8d7994cdb4113aba391d.ttf",
+    "static/media/error.png": "/Hexamart/static/media/error.d52e3c1a21dbecc57c96.png",
+    "static/media/empty.png": "/Hexamart/static/media/empty.011a6ba680b0e6361a9e.png",
+    "static/media/american.png": "/Hexamart/static/media/american.a0820f4d0daab02389d3.png",
+    "static/media/cart-empty.png": "/Hexamart/static/media/cart-empty.9c5e89fb4f9511722096.png",
+    "static/media/default.png": "/Hexamart/static/media/default.05c1018804fdc062dd82.png",
+    "static/media/chip.png": "/Hexamart/static/media/chip.994b0998f89828e056c2.png",
+    "static/media/logo.png": "/Hexamart/static/media/logo.50b019301b3c4035d2c4.png",
+    "static/media/logo2.png": "/Hexamart/static/media/logo2.50b019301b3c4035d2c4.png",
+    "static/media/visa2.png": "/Hexamart/static/media/visa2.6a78a1b076d2a0ddbff2.png",
+    "static/media/user.png": "/Hexamart/static/media/user.7bb7dda85aeac570535b.png",
+    "static/media/contact.png": "/Hexamart/static/media/contact.14b267ff6d1ffc9e40ef.png",
+    "index.html": "/Hexamart/index.html",
+    "main.58e58a8a.css.map": "/Hexamart/static/css/main.58e58a8a.css.map",
+    "main.6ea6e38b.js.map": "/Hexamart/static/js/main.6ea6e38b.js.map",
+    "787.f34db48a.chunk.js.map": "/Hexamart/static/js/787.f34db48a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e58a8a.css",
+    "static/js/main.6ea6e38b.js"
+  ]
+}
